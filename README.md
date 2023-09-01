@@ -1,6 +1,6 @@
 # Simple Pygame Template
 
-Template with a solid game structure allowing for separate screens, drawing UI and handling input.
+Template with a simple game structure allowing for separate screens, drawing UI and handling input.
 
 ## Creating project from template
 
